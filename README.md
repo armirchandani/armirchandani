@@ -13,7 +13,7 @@ Frameworks and Libraries: TensorFlow, Keras, Scikit-Learn, NumPy, Pandas, Matplo
 Certifications:
 • Learning SQL Programming (LinkedIn Learning)
 • Python in Excel (Microsoft)
-• CodePath Introduction to Cybersecurity (CYB101) — in progress
+• CodePath Introduction to Cybersecurity (CYB102) — in progress
 
 🚀 Interests and Goals
 I'm especially interested in:
