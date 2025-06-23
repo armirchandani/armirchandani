@@ -27,4 +27,3 @@ Supporting diversity and access in business and tech careers
 I’m always open to learning, collaborating, and building something meaningful whether it’s a project, internship, or conversation.
 
 📬 Reach me at armirchandani@dons.usfca.edu
-🔗 Connect with me on LinkedIn
