@@ -1,5 +1,5 @@
 👋 Hi there!
-I'm Aastha Mirchandani, a driven and curious student at the University of San Francisco, majoring in Business Analytics and minoring in Computer Science. I’m passionate about using data to tell compelling stories, solve real-world problems, and fuel innovation—particularly in the areas of FinTech, commercial real estate, and technology-driven finance.
+I'm Aastha Mirchandani, a driven and curious student at the University of San Francisco, majoring in Business Analytics and minoring in Computer Science. I’m passionate about using data to tell compelling stories, solve real-world problems, and fuel innovation; particularly in the areas of FinTech, commercial real estate, and technology-driven finance.
 
 My academic journey has been shaped by a desire to bridge the gap between data, business, and impact. Through a blend of coursework and hands-on projects, I’ve gained experience in data analytics, machine learning, and full-stack development. I enjoy building tools, visualizations, and models that not only work but also make sense to people.
 
