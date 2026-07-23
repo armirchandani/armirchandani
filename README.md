@@ -26,4 +26,4 @@ Supporting diversity and access in business and tech careers
 🤝 Let’s Connect
 I’m always open to learning, collaborating, and building something meaningful whether it’s a project, internship, or conversation.
 
-📬 Reach me at armirchandani@dons.usfca.edu
+📬 Reach me at aamircha007@gmail.com
