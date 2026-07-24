@@ -47,12 +47,25 @@ I’m passionate about using data and technology to solve real-world problems, c
 
 ## 🚀 Featured Projects
 
-| Project | Description | Technologies |
-|---|---|---|
-| **[Black Homeownership Data Story](ADD_PROJECT_LINK)** | Built an interactive data story examining Black homeownership and housing inequality in Miami-Dade County. | Python, JavaScript, Svelte, Highcharts |
-| **[Income Classification Model](ADD_PROJECT_LINK)** | Developed and evaluated machine-learning models to predict whether an individual earns more than $50,000 annually. | Python, Pandas, Scikit-Learn |
-| **[Neural Network Income Predictor](ADD_PROJECT_LINK)** | Created a neural-network classifier using TensorFlow and Keras, including preprocessing, training, and validation analysis. | TensorFlow, Keras, NumPy |
-| **[Airbnb Analytics Project](ADD_PROJECT_LINK)** | Analysed Airbnb listing data and developed classification models using logistic regression and feature selection. | Python, Pandas, Scikit-Learn |
+### 🏠 Black Homeownership in Miami-Dade County
+Interactive data storytelling website highlighting housing disparities through engaging visualizations.
+
+🔗 Repository: https://github.com/armirchandani/kwk_scrollytelling  
+🌐 Live Demo: https://armirchandani.github.io/kwk_scrollytelling/
+
+---
+
+### ❤️ Heart Disease Prediction
+Machine learning model using Logistic Regression to predict heart disease with **81.9% test accuracy**.
+
+🔗 Repository: https://github.com/armirchandani/HeartDiseasePrediction
+
+---
+
+### 📈 Oracle Stock Price Movement Predictor
+KNN-based model predicting Oracle stock price direction using historical market data and feature engineering.
+
+🔗 Repository: https://github.com/armirchandani/StockPricePredictionKNN
 
 ---
 
@@ -77,26 +90,6 @@ I’m passionate about using data and technology to solve real-world problems, c
 - CodePath Cybersecurity
 - Zscaler Cybersecurity Training
 - Web and network security training through WiCyS programmes
-
----
-
-## 📊 GitHub Highlights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=armirchandani&show_icons=true&hide_border=true&rank_icon=github" alt="Aastha's GitHub Statistics" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armirchandani&layout=compact&hide_border=true" alt="Aastha's Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armirchandani&hide_border=true" alt="Aastha's GitHub Contribution Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armirchandani&theme=default" alt="Aastha's GitHub Contribution Graph" />
-</p>
 
 ---
 
