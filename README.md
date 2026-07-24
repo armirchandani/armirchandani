@@ -95,11 +95,20 @@ KNN-based model predicting Oracle stock price direction using historical market 
 
 ## 🤝 Leadership and Community
 
-Beyond academics and technical projects, I participate in student organisations and professional development programmes focused on leadership, finance, technology, cybersecurity, and inclusive innovation.
+I enjoy leading initiatives that bring together technology, business, and community impact. Through campus organizations and professional programs, I've had the opportunity to mentor students, organize events, and collaborate with diverse teams to create meaningful experiences.
 
-I believe that the strongest solutions combine:
+### Leadership Highlights
 
-**Clear data + thoughtful technology + measurable human impact**
+- 👩‍💼 **President**, Alpha Sigma Nu Honor Society
+- 🔐 **Treasurer**, Women in Tech Cybersecurity Committee
+- 📈 **Treasurer**, Student Investment Club
+- 🌟 **Magis Mentor**, University of San Francisco
+- 🤝 **Martin-Baró Scholar** and **Magis Emerging Leadership Fellow**
+- 💻 Active participant in **WiCyS**, **CodePath**, **Break Through Tech**, and other technology-focused initiatives
+
+These experiences have strengthened my leadership, communication, and project management skills while reinforcing my passion for using technology and data to make a positive impact.
+
+> **Leadership to me means empowering others, solving meaningful problems, and creating lasting impact through collaboration and innovation.**
 
 ---
 
@@ -109,7 +118,8 @@ I believe that the strongest solutions combine:
   <a href="mailto:aamircha007@gmail.com">
     <img src="https://img.shields.io/badge/Email-aamircha007%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="ADD_LINKEDIN_URL">
+
+  <a href="https://www.linkedin.com/in/aastharajeshmirchandani/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
