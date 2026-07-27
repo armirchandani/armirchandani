@@ -1,4 +1,4 @@
-# Hi, I'm Aastha Mirchandani 👋
+# Hi, I'm Aastha Mirchandani 👋 
 
 ### Business Analytics Student | Data, Technology & Cybersecurity
 
