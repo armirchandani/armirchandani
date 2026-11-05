@@ -2,7 +2,7 @@
 
 ### Business Analytics Student | Data, Technology & Cybersecurity
 
-I’m a driven and curious student at the **University of San Francisco**, majoring in **Business Analytics** and minoring in **Computer Science**.
+I’m a driven and curious student at the **University of San Francisco**, majoring in **Business Analytics** and minoring in **Theology & Religious Studeies**.
 
 I’m passionate about using data and technology to solve real-world problems, communicate meaningful insights, and support better business decisions. My interests include **FinTech, cybersecurity, commercial real estate, machine learning, and technology-driven finance**.
 
